@@ -1,0 +1,7 @@
+{
+    "editor.defaultFormatter": "syler.sass-indented",
+    "scss.lint.float": "error",
+    "[scss]": {
+        "editor.defaultFormatter": "Wscats.eno"
+    }
+}
